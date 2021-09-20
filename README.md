@@ -9,6 +9,7 @@ step 3--> run the project as java application.
 Note--> database used is H2 database.
 
 -------Request API----------
+
 1.Add property request
 
 url-->http://localhost:8081/mananger/createproperty
