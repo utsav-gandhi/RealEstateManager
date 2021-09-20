@@ -1,0 +1,9 @@
+com\repository\PropertyRepoImpl.class
+com\realestatemanager\RealEstateManager1Application.class
+com\controller\CustomerController.class
+com\controller\ManagerController.class
+com\exception\CustomExceprion.class
+com\service\PropertyService.class
+com\repository\PropertyRepo.class
+com\realestatemanager\ResourceLoader.class
+com\model\Property.class
